@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- BANNER ANIMADO SUPERIOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Koonext&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Ingeniería%20de%20Software%20Profesional&descSize=20&descAlignY=60&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Koonext&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Ingenieria%20de%20Software%20Profesional&descSize=20&descAlignY=60&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <!-- TEXTO ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Bienvenido+a+Koonext+%F0%9F%9A%80;Del+maya%3A+%22Vamos%22+%F0%9F%8C%8E;Construimos+software+de+alto+impacto;Mérida%2C+Yucatán%2C+México+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Bienvenido+a+Koonext;Del+maya%3A+%22Vamos%22;Software+de+alto+impacto;Merida%2C+Yucatan%2C+Mexico" alt="Typing Animation"/>
 
 <br/>
 
 <!-- BADGES PRINCIPALES -->
 [![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![Enfoque](https://img.shields.io/badge/Enfoque-Fullstack%20Dev-6366f1?style=for-the-badge&logo=codepen&logoColor=white)](#)
-[![Región](https://img.shields.io/badge/Región-Yucatán%2C%20MX-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Region](https://img.shields.io/badge/Region-Yucatan%2C%20MX-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -92,7 +92,7 @@ Nuestro objetivo es **profesionalizar el desarrollo estudiantil** y convertir id
 ```
 
 [![Nexnotarial](https://img.shields.io/badge/Proyecto-Nexnotarial-6366f1?style=for-the-badge&logo=files&logoColor=white)](#)
-[![Estado](https://img.shields.io/badge/Estado-En%20construcción-f59e0b?style=for-the-badge&logo=hammer&logoColor=white)](#)
+[![Estado](https://img.shields.io/badge/Estado-En%20construccion-f59e0b?style=for-the-badge&logo=hammer&logoColor=white)](#)
 
 </div>
 
