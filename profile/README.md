@@ -122,6 +122,26 @@ Nuestro objetivo es **profesionalizar el desarrollo estudiantil** y convertir id
 
 ---
 
+## 👥 Nuestro Equipo
+
+<div align="center">
+
+> Los colaboradores se actualizan automáticamente cada vez que alguien contribuye a nuestros repositorios.
+
+### Colaboradores del perfil de organización
+
+<a href="https://github.com/koonext/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=koonext/.github&max=100&columns=12" alt="Colaboradores Koonext"/>
+</a>
+
+<br/>
+
+[![Contribuidores](https://img.shields.io/github/contributors/koonext/.github?style=for-the-badge&color=6366f1&logo=github&logoColor=white&label=Colaboradores)](#)
+
+</div>
+
+---
+
 ## 📬 Contacto & Colaboración
 
 <div align="center">
